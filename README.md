@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# new-clima-app
+App de pronostico del clima utilizando NextJS 13 con typescript y las api de OpenWeather, Geolocator de JS y OpenCage Data para obtención del pronostico y localización. Hecha desde 0 posee un diseño reactivo y minimalista desarrollado con Tailwind CSS.
+>>>>>>> fbb3fce2e2b80c4dd877967e9df70a902db0aeed
